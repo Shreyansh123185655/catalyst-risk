@@ -1,5 +1,7 @@
 # CATALYST RISK
 
+🚀 **Live Demo:** [https://cat-risk-simulator.preview.emergentagent.com/](https://cat-risk-simulator.preview.emergentagent.com/)
+
 A high-performance, stochastic catastrophe risk modeling platform built in Python. Designed for quantitative risk analysts and reinsurance professionals, it allows users to run thousands of Monte Carlo simulations to estimate expected and tail financial losses across a geographically distributed property portfolio.
 
 The app combines Streamlit, NumPy, Plotly, and scientific Python libraries to deliver enterprise-grade catastrophe modeling capabilities. Every simulation is mathematically rigorous, deterministic, and fully reproducible, so the core engineering focus is **vectorized performance**, **mathematical integrity**, and **auditability**.
